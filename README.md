@@ -1,5 +1,3 @@
 # wisnubramantyo.github.io
 
-# The largest heading
-## The second largest heading
-###### The smallest heading
+This is a repository for my portfolio. Check this out to know more about me.
